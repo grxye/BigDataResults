@@ -1,0 +1,179 @@
+$5 
+
+r1
+
+
+Job Runtime: 91115 ms
+Job Runtime: 104936 ms
+Job Runtime: 87491 ms
+Job Runtime: 90201 ms
+Job Runtime: 88066 ms
+Job Runtime: 89122 ms
+
+
+
+r2
+
+
+Job Runtime: 129293 ms
+Job Runtime: 117261 ms
+Job Runtime: 116917 ms
+Job Runtime: 114557 ms
+Job Runtime: 115110 ms
+
+
+
+r3
+
+
+Job Runtime: 95081 ms
+Job Runtime: 78696 ms
+Job Runtime: 79329 ms
+Job Runtime: 78741 ms
+Job Runtime: 77903 ms
+
+
+
+r4
+
+
+Job Runtime: 151950 ms
+Job Runtime: 140472 ms
+Job Runtime: 139490 ms
+Job Runtime: 133622 ms
+Job Runtime: 134449 ms
+
+
+
+r5
+
+
+Job Runtime: 277092 ms
+Job Runtime: 281413 ms
+Job Runtime: 269957 ms
+Job Runtime: 268874 ms
+Job Runtime: 263735 ms
+
+
+
+r6
+
+
+Job Runtime: 285903 ms
+Job Runtime: 272999 ms
+Job Runtime: 282563 ms
+Job Runtime: 280995 ms
+Job Runtime: 284491 ms
+
+
+
+r7
+
+
+Job Runtime: 278228 ms
+Job Runtime: 269892 ms
+Job Runtime: 265657 ms
+Job Runtime: 265559 ms
+Job Runtime: 264183 ms
+
+
+
+r8
+
+
+Job Runtime: 398312 ms
+Job Runtime: 387191 ms
+Job Runtime: 383438 ms
+Job Runtime: 385154 ms
+Job Runtime: 385740 ms
+
+
+
+r9
+
+
+Job Runtime: 720770 ms
+Job Runtime: 725895 ms
+Job Runtime: 730021 ms
+Job Runtime: 727348 ms
+Job Runtime: 721767 ms
+
+
+
+r10
+
+
+Job Runtime: 1199070 ms
+Job Runtime: 1152344 ms
+Job Runtime: 1142796 ms
+Job Runtime: 1152620 ms
+Job Runtime: 1151952 ms
+
+
+
+r11
+
+
+Job Runtime: 703378 ms
+Job Runtime: 705399 ms
+Job Runtime: 699286 ms
+Job Runtime: 702393 ms
+Job Runtime: 697174 ms
+
+
+
+r12
+
+
+Job Runtime: 1113283 ms
+Job Runtime: 1067376 ms
+Job Runtime: 1068780 ms
+Job Runtime: 1069834 ms
+Job Runtime: 1068408 ms
+
+
+
+r13
+
+
+Job Runtime: 2420943 ms
+Job Runtime: 2390400 ms
+Job Runtime: 2387407 ms
+Job Runtime: 2416575 ms
+Job Runtime: 2461303 ms
+
+
+
+r14
+
+
+Job Runtime: 2416719 ms
+Job Runtime: 2405520 ms
+Job Runtime: 2488530 ms
+Job Runtime: 2413381 ms
+Job Runtime: 2420547 ms
+
+
+
+r15
+
+
+Job Runtime: 2522046 ms
+Job Runtime: 2519197 ms
+Job Runtime: 2496747 ms
+Job Runtime: 2474720 ms
+Job Runtime: 2453450 ms
+
+
+
+r16
+
+
+Job Runtime: 3499775 ms
+Job Runtime: 3538523 ms
+Job Runtime: 3567377 ms
+Job Runtime: 3660426 ms
+Job Runtime: 3596343 ms
+
+
+
